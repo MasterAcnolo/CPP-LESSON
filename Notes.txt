@@ -1,0 +1,19 @@
+Pour Compiler en C++: g++ NOMFICHIER.cpp -o NOMQUEONVEUTLUIDONNER
+
+Après on ouvre le fichier avec ./fichier
+
+STD viens de Standard Librairie <-- Librairie par Défaut 
+
+\' qui permet d’afficher un guillemet simple '
+\" qui permet d’afficher un guillemet double "
+\n qui permet d’aller à la ligne, comme std::endl
+\t qui permet de faire une tabulation horizontale
+\\ qui permet d’afficher un antislash \
+
+Opérateurs Mathématiques:
+
++ Addition
+- Soustraction
+* Multiplication
+/ Divison
+% Modulo ( Reste de la Divison )
